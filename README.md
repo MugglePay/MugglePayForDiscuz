@@ -1,10 +1,10 @@
 # Discuz麻瓜宝支付插件
 
-### 说明
+## 说明
 + 本插件基于Discuz！ X3.4开发，理论上支持X3.x，并没有完全测试，仅仅测试X3.3与X3.4，其他版本还需自行测试。
 + 请使用UTF-8编码格式，如果您的论坛采用GBK文件编码，请自行转换。
 
-### 安装及使用教程
+## 安装及使用教程
 + 上传至 source/plugin 文件夹，保持目录名为MugglePayForDiscuz
 ![discuz setup1](images/setup/setup1.png)
 + 在Discuz管理后台中安装并启用
@@ -22,3 +22,9 @@
 
 **注意：由于本插件没有对接退款API，一旦用户支付不可退回款项，请悉知！**
 
+## License
+This project is licensed under the GPL-3.0 License.
+
+## Changelog
+1.0.1
+MugglePay For Discuz
