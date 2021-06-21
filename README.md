@@ -16,5 +16,9 @@
 ![discuz setup5](images/setup/setup5.png)
 + 注意：如需开启微信支付或支付宝，请在麻瓜支付商家后台 收款设置 - 法币收款 中提交申请。
 ![discuz setup6](images/setup/setup6.png)
++ 用户在 设置 - 积分充值 页面可以使用麻瓜支付充值啦，充值成功会收到论坛消息提醒，并可在 设置 - 我的积分 中查看记录
+![discuz setup7](images/setup/setup7.png)
+![discuz setup8](images/setup/setup8.png)
+
 **注意：由于本插件没有对接退款API，一旦用户支付不可退回款项，请悉知！**
 
